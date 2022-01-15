@@ -31,7 +31,7 @@
     "jshint": "^2.8.0",
     "minimist": "^1.1.2",
     "mv": "^2.1.1",
-    "shelljs": "^0.3.0"
+    "shelljs": "^0.8.5"
   },
   "cordovaPlugins": [
     "cordova-plugin-device",
